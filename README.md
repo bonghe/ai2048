@@ -3,10 +3,10 @@ The hardest version of 2048 you've ever played!
 
 ## How to play
 
-You can use it on the this page. 
+You can play it on the this page. 
 * [boundaryh/ai2048](https://boundaryh.github.io/ai2048/index.html)
 
-It is recommended to use it on Google Chrome.
+It is recommended to play it on Google Chrome.
 
 ## Why so smart
 This game has a deep learning model running by Tensorflow.js to decide where and what the new number is. 
