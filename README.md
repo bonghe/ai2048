@@ -4,7 +4,7 @@ The hardest version of 2048 you've ever played!
 ## How to play
 
 You can use it on the this page. 
-* [boundaryh/ai2048](https://boundaryh.github.io/ai2048/)
+* [boundaryh/ai2048](https://boundaryh.github.io/ai2048/index.html)
 
 It is recommended to use it on Google Chrome.
 
