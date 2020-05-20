@@ -16,5 +16,5 @@ Honestly, I have never got 2048 in this game.
 
 ## Based on 
 
-- [gabrielecirulli/2048](https://https://github.com/gabrielecirulli/2048)
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)
 
